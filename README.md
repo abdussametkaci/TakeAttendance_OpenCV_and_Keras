@@ -1,5 +1,5 @@
 # TakeAttendance_OpenCV_and_Keras
-## Öğrenci yoklması alan program
+## Öğrenci yoklaması alan program
 Bu program sınıfa giren öğrencilerin yüzlerini tespit ederek kimlerin sınıfta olduğunu tespit eden bir programdır. 
 
 ## Programın Ana Mantığı
